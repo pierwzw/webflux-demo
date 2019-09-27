@@ -1,0 +1,8 @@
+
+spring:
+  webflux:
+    static-path-pattern: /static/**
+
+  data:
+    mongodb:
+      uri: mongodb://pier1:644886@localhost:27017/test
